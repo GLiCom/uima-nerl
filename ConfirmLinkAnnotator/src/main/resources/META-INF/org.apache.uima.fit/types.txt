@@ -1,0 +1,1 @@
+classpath*:edu/upf/glicom/uima/ts/verified-spotlight-type.xml

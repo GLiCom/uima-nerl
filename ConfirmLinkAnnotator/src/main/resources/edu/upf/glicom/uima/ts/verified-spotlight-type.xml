@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Filtered Spotlight types</name>
+  <description/>
+  <version>1.0</version>
+  <vendor/>
+      <imports>
+    <import name="org.dbpedia.spotlight.uima.types.SpotlightTypeSystemDescriptor"/>
+  </imports>
+  <types>
+        <typeDescription>
+      <name>edu.upf.glicom.uima.ts.VerifiedDBpediaResource</name>
+      <description/>
+      <supertypeName>org.dbpedia.spotlight.uima.types.DBpediaResource</supertypeName>
+    </typeDescription>
+  </types>
+  
+</typeSystemDescription>
